@@ -4,6 +4,7 @@ title: How to Make Your Product Discoverable by LLMs
 description: A practical guide to LLM SEO, AI search visibility, and community-driven discovery for founders and marketers.
 ---
 
+
 # How to Make Your Product Discoverable by LLMs  
 *A practical, non-hyped guide for founders, marketers, and indie builders*
 
