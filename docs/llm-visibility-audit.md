@@ -1,4 +1,10 @@
-# LLM Visibility Audit  
+---
+layout: default
+title: LLM Visibility Audit
+description: Technical methodology for evaluating LLM visibility and AI search readiness.
+---
+
+# LLM Visibility Audit 
 *Technical methodology for evaluating AI search and LLM discoverability*
 
 ---
