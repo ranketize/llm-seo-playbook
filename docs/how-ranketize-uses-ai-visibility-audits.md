@@ -317,23 +317,6 @@ If you want to improve a site using the same principles, start here:
 
 That process is simple, but it is already more rigorous than publishing random AEO pages and hoping for citations.
 
----
-
-## What this means for Ranketize
-
-If this page does its job, it should help Ranketize in three ways:
-
-- strengthen topical authority around AI visibility audits
-- route readers from educational content into audit-related pages
-- create clearer associations between Ranketize, audit methodology, and practical implementation
-
-It should also help [Crawlly AI](https://www.crawlly.ai/) because it places the product in a real workflow instead of mentioning it as a generic tool.
-
-That is the right shape for a page like this:  
-useful first, commercial second.
-
----
-
 ## Sources and references
 
 - [Google Search Essentials](https://developers.google.com/search/docs/essentials)
