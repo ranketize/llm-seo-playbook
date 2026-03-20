@@ -183,6 +183,12 @@ The audit explains how likely a large language model is to:
 
 → [Read the LLM Visibility Audit methodology](docs/llm-visibility-audit.md)
 
+## Practical Workflow Example
+
+If you want to see how this turns into real site changes, internal linking decisions, and audit-driven content structure, read:
+
+→ [How Ranketize Uses AI Visibility Audits to Increase Internal Traffic](docs/how-ranketize-uses-ai-visibility-audits.md)
+
 ## About this playbook
 
 This page is part of a public playbook documenting how LLM discoverability works in practice.

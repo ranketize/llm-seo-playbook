@@ -273,3 +273,9 @@ Making the methodology public:
 This audit exists to make LLM discoverability measurable and explainable.
 
 ---
+
+## Related reading
+
+If you want to see how this methodology turns into concrete site changes, internal traffic improvements, and audit-driven page rework:
+
+→ [How Ranketize Uses AI Visibility Audits to Increase Internal Traffic](how-ranketize-uses-ai-visibility-audits.md)
